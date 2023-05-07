@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe.config
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\bin\Release\WindowsFormsApp4.pdb
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form1.resources
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\obj\Release\WindowsFormsApp4.exe
+C:\Users\user\Desktop\3.10 시험\WindowsFormsApp4 (1)\WindowsFormsApp4\obj\Release\WindowsFormsApp4.pdb
